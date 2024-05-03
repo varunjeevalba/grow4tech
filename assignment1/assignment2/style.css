@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(81, 192, 168);
+}
+
+
+.main{
+
+    border: 10px solid rgb(81, 192, 168);
+    max-width: 700px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #abbaba;
+    color: #000;
+  }
+
+
